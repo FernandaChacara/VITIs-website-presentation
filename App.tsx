@@ -35,7 +35,7 @@ const DashboardHero: React.FC = () => {
       {/* Mockup Image Container */}
       <div className="relative rounded-2xl shadow-2xl overflow-hidden border border-neutral-200 z-10 bg-white">
         <img 
-          src="vitis-hero.png" 
+          src="vitis-hero.PNG" 
           alt="VITIs Dashboard Mockup" 
           className="w-full h-auto block"
         />
